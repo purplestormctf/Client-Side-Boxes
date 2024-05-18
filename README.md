@@ -13,6 +13,7 @@
 | Derailed | Linux | Insane | RATE ME! | n/a | no | yes | https://www.hackthebox.com/machines/derailed |
 | Explore | Android | Easy | RATE ME! | n/a | yes | no | https://www.hackthebox.com/machines/explore |
 | Extension | Linux | Hard | RATE ME! | n/a | yes | no | https://www.hackthebox.com/machines/extension |
+| FormulaX | Linux | Hard | 🤮 | Client-Side part was cookie stealing. | no | yes | https://www.hackthebox.com/machines/formulax |
 | Mailing | Easy | Linux | 🤮 | n/a | yes | no | https://www.hackthebox.com/machines/mailing |
 | Mailroom | Linux | Hard | RATE ME! | n/a | yes | no | https://www.hackthebox.com/machines/mailroom |
 | Mist | Windows | Insane | NONE! | Client-Side after foothold which actually works! | no | yes | https://www.hackthebox.com/machines/mist |
