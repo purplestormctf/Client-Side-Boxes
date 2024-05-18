@@ -7,14 +7,14 @@
 
 | Name | Rating | OS | Fuckup Level 1-5 | Description | Listed as CS on HTB | Verified by a poor soul | URL |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Anubis | Insane | Windows | 🤮🤮🤮🤮🤮 | You will learn to hate on a new level. | no | yes | https://www.hackthebox.com/machines/anubis |
+| Anubis | Insane | Windows | 🤮🤮🤮🤮🤮 | You will learn to hate on a new level. Broken scheduled task gave us hell. | no | yes | https://www.hackthebox.com/machines/anubis |
 | Bookworm | Insane | Linux | 🤮🤮🤮 | n/a | no | yes | https://www.hackthebox.com/machines/bookworm |
 | Catch | Linux | Medium | RATE ME! | n/a | yes | no | https://www.hackthebox.com/machines/catch |
 | Derailed | Linux | Insane | RATE ME! | n/a | no | yes | https://www.hackthebox.com/machines/derailed |
 | Explore | Android | Easy | RATE ME! | n/a | yes | no | https://www.hackthebox.com/machines/explore |
 | Extension | Linux | Hard | RATE ME! | n/a | yes | no | https://www.hackthebox.com/machines/extension |
 | FormulaX | Linux | Hard | 🤮 | Client-Side part was cookie stealing. | no | yes | https://www.hackthebox.com/machines/formulax |
-| Mailing | Easy | Linux | 🤮 | n/a | yes | no | https://www.hackthebox.com/machines/mailing |
+| Mailing | Easy | Linux | 🤮🤮 | Weird hint about the client-side attack but the attack itself is very stable. Prepare to deal with LO. | yes | no | https://www.hackthebox.com/machines/mailing |
 | Mailroom | Linux | Hard | RATE ME! | n/a | yes | no | https://www.hackthebox.com/machines/mailroom |
 | Mist | Windows | Insane | NONE! | Client-Side after foothold which actually works! | no | yes | https://www.hackthebox.com/machines/mist |
 | PikaTwoo | Linux | Insane | 🤮🤮 | n/a | yes | no | https://www.hackthebox.com/machines/pikatwoo |
