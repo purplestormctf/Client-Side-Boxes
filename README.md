@@ -15,6 +15,7 @@
 | Extension | Linux | Hard | RATE ME! | n/a | yes | no | https://www.hackthebox.com/machines/extension |
 | Mailing | Easy | Linux | 🤮 | n/a | yes | no | https://www.hackthebox.com/machines/mailing |
 | Mailroom | Linux | Hard | RATE ME! | n/a | yes | no | https://www.hackthebox.com/machines/mailroom |
+| Mist | Windows | Insane | NONE! | Client-Side after foothold which actually works! | no | yes | https://www.hackthebox.com/machines/mist |
 | PikaTwoo | Linux | Insane | 🤮🤮 | n/a | yes | no | https://www.hackthebox.com/machines/pikatwoo |
 | Sandworm | Linux | Medium | RATE ME! | n/a | yes | no | https://www.hackthebox.com/machines/sandworm |
 | Tally | Windows | Hard | RATE ME! | n/a | yes | no | https://www.hackthebox.com/machines/tally |
