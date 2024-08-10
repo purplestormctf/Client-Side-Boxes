@@ -21,4 +21,5 @@
 | Mist | Windows | Insane | NONE! | Client-Side after foothold which actually works! | no | yes | https://www.hackthebox.com/machines/mist |
 | PikaTwoo | Linux | Insane | 🤮🤮 | n/a | yes | no | https://www.hackthebox.com/machines/pikatwoo |
 | Sandworm | Linux | Medium | RATE ME! | n/a | yes | no | https://www.hackthebox.com/machines/sandworm |
+| Sea | Linux | Easy | 🤮 | Not that bad, it actually worked | no | yes | https://www.hackthebox.com/machines/sea |
 | Tally | Windows | Hard | RATE ME! | n/a | yes | no | https://www.hackthebox.com/machines/tally |
