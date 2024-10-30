@@ -25,3 +25,4 @@
 | Sea | Linux | Easy | 🤮 | Not that bad, it actually worked | no | yes | https://www.hackthebox.com/machines/sea |
 | Sightless | Linux | Easy | 🤮🤮🤮 | Very aggressive configuration! | no | yes | https://www.hackthebox.com/machines/sightless |
 | Tally | Windows | Hard | RATE ME! | n/a | yes | no | https://www.hackthebox.com/machines/tally |
+| University | Windows | Insane | 🤮 | Unfortunately too many unintended ways to solve this box! Client-side part comes later in the box into play | no | no |  https://www.hackthebox.com/machines/university |
