@@ -8,7 +8,8 @@
 | Name | Rating | OS | Fuckup Level 1-5 | Description | Listed as CS on HTB | Verified by a poor soul | URL |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Anubis | Insane | Windows | 🤮🤮🤮🤮🤮 | You will learn to hate on a new level. Broken scheduled task gave us hell. | no | yes | https://www.hackthebox.com/machines/anubis |
-| Axlle | Hard | Windows | 🤮🤮🤮🤮🤮 | Foothold is fun (not) | no | yes | https://www.hackthebox.com/machines/axlle |
+| Axlle | Hard | Windows | 🤮🤮🤮🤮🤮 | Foothold is fun (not). | no | yes | https://www.hackthebox.com/machines/axlle |
+| BlockBlock | Hard | Linux | It was actually not that bad | Stealing stuff to get to the foothold but it worked fine. | no | yes | https://www.hackthebox.com/machines/blockblock |
 | Bookworm | Insane | Linux | 🤮🤮🤮 | n/a | no | yes | https://www.hackthebox.com/machines/bookworm |
 | Catch | Linux | Medium | RATE ME! | n/a | yes | no | https://www.hackthebox.com/machines/catch |
 | Derailed | Linux | Insane | RATE ME! | n/a | no | yes | https://www.hackthebox.com/machines/derailed |
