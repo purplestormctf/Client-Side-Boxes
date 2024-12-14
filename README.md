@@ -7,7 +7,7 @@
 
 | Name | Rating | OS | Fuckup Level 1-5 | Description | Listed as CS on HTB | Verified by a poor soul | URL |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Alert | Easy | Linux | Noke puke here | Required for foothold but it actually works quite well! | no | yes | https://www.hackthebox.com/machines/alert |
+| Alert | Easy | Linux | No puke here | Required for foothold but it actually works quite well! | no | yes | https://www.hackthebox.com/machines/alert |
 | Anubis | Insane | Windows | 🤮🤮🤮🤮🤮 | You will learn to hate on a new level. Broken scheduled task gave us hell. | no | yes | https://www.hackthebox.com/machines/anubis |
 | Axlle | Hard | Windows | 🤮🤮🤮🤮🤮 | Foothold is fun (not). | no | yes | https://www.hackthebox.com/machines/axlle |
 | BlockBlock | Hard | Linux | It was actually not that bad | Stealing stuff to get to the foothold but it worked fine. | no | yes | https://www.hackthebox.com/machines/blockblock |
@@ -28,3 +28,4 @@
 | Sightless | Linux | Easy | 🤮🤮🤮 | Very aggressive configuration! | no | yes | https://www.hackthebox.com/machines/sightless |
 | Tally | Windows | Hard | RATE ME! | n/a | yes | no | https://www.hackthebox.com/machines/tally |
 | University | Windows | Insane | 🤮 | Unfortunately too many unintended ways to solve this box! Client-side part comes later in the box into play | no | no |  https://www.hackthebox.com/machines/university |
+| Unrested | Linux | Medium | Nothing to puke about | Required for foothold but actually works | no | no |  https://www.hackthebox.com/machines/unrested |
