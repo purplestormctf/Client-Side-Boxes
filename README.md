@@ -12,6 +12,7 @@
 | Axlle | Hard | Windows | 🤮🤮🤮🤮🤮 | Foothold is fun (not). | no | yes | https://www.hackthebox.com/machines/axlle |
 | BlockBlock | Hard | Linux | It was actually not that bad | Stealing stuff to get to the foothold but it worked fine. | no | yes | https://www.hackthebox.com/machines/blockblock |
 | Bookworm | Insane | Linux | 🤮🤮🤮 | n/a | no | yes | https://www.hackthebox.com/machines/bookworm |
+| Cat | Medium | Linux | 🤮🤮🤮 | Double client-side part. | no | yes | https://www.hackthebox.com/machines/cat |
 | Catch | Linux | Medium | RATE ME! | n/a | yes | no | https://www.hackthebox.com/machines/catch |
 | Derailed | Linux | Insane | RATE ME! | n/a | no | yes | https://www.hackthebox.com/machines/derailed |
 | Explore | Android | Easy | RATE ME! | n/a | yes | no | https://www.hackthebox.com/machines/explore |
