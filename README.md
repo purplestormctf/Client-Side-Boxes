@@ -14,9 +14,9 @@
 | Bookworm | Insane | Linux | 🤮🤮🤮 | n/a | no | yes | https://www.hackthebox.com/machines/bookworm |
 | Cat | Medium | Linux | 🤮🤮🤮 | Double client-side part. | no | yes | https://www.hackthebox.com/machines/cat |
 | Catch | Linux | Medium | RATE ME! | n/a | yes | no | https://www.hackthebox.com/machines/catch |
-| DarkCorp | Windows | Insane | 🤮 |Required for foothold. It actually works. | no | yes | https://www.hackthebox.com/machines/darkcorp |
+| DarkCorp | Windows | Insane | 🤮 | Required for foothold. It actually works. | no | yes | https://www.hackthebox.com/machines/darkcorp |
 | Derailed | Linux | Insane | RATE ME! | n/a | no | yes | https://www.hackthebox.com/machines/derailed |
-| Eureka | Linux | Hard | It was okay. The cronjob worked. | no | yes | https://www.hackthebox.com/machines/eureka |
+| Eureka | Linux | Hard | NONE! | It was okay. The cronjob worked. | no | yes | https://www.hackthebox.com/machines/eureka |
 | Explore | Android | Easy | RATE ME! | n/a | yes | no | https://www.hackthebox.com/machines/explore |
 | Extension | Linux | Hard | RATE ME! | n/a | yes | no | https://www.hackthebox.com/machines/extension |
 | FormulaX | Linux | Hard | 🤮 | Client-Side part was cookie stealing. | no | yes | https://www.hackthebox.com/machines/formulax |
