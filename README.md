@@ -19,6 +19,7 @@
 | Eureka | Linux | Hard | NONE! | It was okay. The cronjob worked. | no | yes | https://www.hackthebox.com/machines/eureka |
 | Explore | Android | Easy | RATE ME! | n/a | yes | no | https://www.hackthebox.com/machines/explore |
 | Extension | Linux | Hard | RATE ME! | n/a | yes | no | https://www.hackthebox.com/machines/extension |
+| Fluffy | Windows | Easy | It was working fine. | Needed for foothold. | no | yes | https://www.hackthebox.com/machines/fluffy | 
 | FormulaX | Linux | Hard | 🤮 | Client-Side part was cookie stealing. | no | yes | https://www.hackthebox.com/machines/formulax |
 | Intfiltrator | Windows | Insane | 🤮 | Client-Side nearly at the end of the box. Just a little bit annoying to deal with. | no | yes | https://www.hackthebox.com/machines/infiltrator |
 | MagicGardens | Linux | Insane | 🤮🤮🤮🤮 | Foothold WTF.. | no | yes | https://www.hackthebox.com/machines/magicgardens |
