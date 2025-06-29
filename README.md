@@ -27,6 +27,7 @@
 | Mailroom | Linux | Hard | RATE ME! | n/a | yes | no | https://www.hackthebox.com/machines/mailroom |
 | Mist | Windows | Insane | NONE! | Client-Side after foothold which actually works! | no | yes | https://www.hackthebox.com/machines/mist |
 | PikaTwoo | Linux | Insane | 🤮🤮 | n/a | yes | no | https://www.hackthebox.com/machines/pikatwoo |
+| RustyKey | Windows | Hard | 🤮 | It works but you have to wait for it. | no | yes | https://www.hackthebox.com/machines/rustykey |
 | Sandworm | Linux | Medium | RATE ME! | n/a | yes | no | https://www.hackthebox.com/machines/sandworm |
 | Sea | Linux | Easy | 🤮 | Not that bad, it actually worked | no | yes | https://www.hackthebox.com/machines/sea |
 | Sightless | Linux | Easy | 🤮🤮🤮 | Very aggressive configuration! | no | yes | https://www.hackthebox.com/machines/sightless |
