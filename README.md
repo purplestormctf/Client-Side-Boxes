@@ -25,6 +25,7 @@
 | MagicGardens | Linux | Insane | 🤮🤮🤮🤮 | Foothold WTF.. | no | yes | https://www.hackthebox.com/machines/magicgardens |
 | Mailing | Easy | Linux | 🤮🤮 | Weird hint about the client-side attack but the attack itself is very stable. Prepare to deal with LO. | yes | no | https://www.hackthebox.com/machines/mailing |
 | Mailroom | Linux | Hard | RATE ME! | n/a | yes | no | https://www.hackthebox.com/machines/mailroom |
+| Mirage | Windows | Hard | It was actually working very well. | Needed in the early stage of the box | no | yes | https://www.hackthebox.com/machines/mirage |
 | Mist | Windows | Insane | NONE! | Client-Side after foothold which actually works! | no | yes | https://www.hackthebox.com/machines/mist |
 | PikaTwoo | Linux | Insane | 🤮🤮 | n/a | yes | no | https://www.hackthebox.com/machines/pikatwoo |
 | RustyKey | Windows | Hard | 🤮 | It works but you have to wait for it. | no | yes | https://www.hackthebox.com/machines/rustykey |
