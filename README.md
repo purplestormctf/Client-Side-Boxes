@@ -21,6 +21,7 @@
 | Extension | Linux | Hard | RATE ME! | n/a | yes | no | https://www.hackthebox.com/machines/extension |
 | Fluffy | Windows | Easy | It was working fine. | Needed for foothold. | no | yes | https://www.hackthebox.com/machines/fluffy | 
 | FormulaX | Linux | Hard | 🤮 | Client-Side part was cookie stealing. | no | yes | https://www.hackthebox.com/machines/formulax |
+| Guardian | Linux | HArd | nah, meh, it worked. | Double client-side part on the foothold. | no | yes | https://www.hackthebox.com/machines/guardian |
 | Intfiltrator | Windows | Insane | 🤮 | Client-Side nearly at the end of the box. Just a little bit annoying to deal with. | no | yes | https://www.hackthebox.com/machines/infiltrator |
 | MagicGardens | Linux | Insane | 🤮🤮🤮🤮 | Foothold WTF.. | no | yes | https://www.hackthebox.com/machines/magicgardens |
 | Mailing | Easy | Linux | 🤮🤮 | Weird hint about the client-side attack but the attack itself is very stable. Prepare to deal with LO. | yes | no | https://www.hackthebox.com/machines/mailing |
